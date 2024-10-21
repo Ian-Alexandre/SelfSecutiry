@@ -1,0 +1,13 @@
+{
+    "token": "",
+    "config": {
+        "anti_fake_onoff": "on",
+        "dias_criacao": 2,
+        "config": {
+            "anti_fake_onoff": "off"
+        }
+    },
+    "canais": {
+        "canal_logs": ""
+    }
+}
