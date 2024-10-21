@@ -1,7 +1,7 @@
 # 🛡️ Discord SelfBot Protection 🛡️
 Garanta a segurança do seu servidor!
 
-O Discord SelfBot Protection foi criado para proteger seu servidor de bots maliciosos e SelfBots. Nosso sistema realiza uma verificação automática e eficiente, expulsando usuários que criaram suas contas recentemente, com menos de 2 dias de criação.
+### O Discord SelfBot Protection foi criado para proteger seu servidor de bots maliciosos e SelfBots. Nosso sistema realiza uma verificação automática e eficiente, expulsando usuários que criaram suas contas recentemente, com menos de 2 dias de criação.
 
 ## ⚙️ Principais Funcionalidades:
 Verifica automaticamente se a conta do usuário tem menos de 2 dias.
